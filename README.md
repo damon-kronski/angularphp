@@ -1,4 +1,4 @@
-angularphp
+AngularPHP
 ==========
 
 AngularPHP is a library with supportive functions for AngularJS.
