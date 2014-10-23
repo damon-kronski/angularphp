@@ -1,0 +1,14 @@
+.container{
+	text-align:center;
+	width: 500px;
+}
+
+.todo-list{
+	text-align:left;
+	background-color: #CCCCCC;
+	margin: 15px;
+}
+
+.todo-item{
+	margin: 5px 5px 0px 5px;
+}
